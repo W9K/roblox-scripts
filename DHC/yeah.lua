@@ -22,5 +22,6 @@ hello = {
     ["badaskidcoo9721"] = 2536387402,
     ["2Chillie"] = 2333364866,
     ["dsmxnd"] = 120278349,
+    ["6ghxstfatty"] = 1896576364, -- 289617448615804928 support
 }
 return hello
