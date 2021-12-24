@@ -15,5 +15,6 @@ hello = {
     ["skvulI"] = 2552920865,
     ["15garcon"] = 292578803,
     ["Elumees2017"] = 3000559599,
+    ["QuincyXiang"] = 444052573, -- 396410605671809039 partner wl
 }
 return hello
