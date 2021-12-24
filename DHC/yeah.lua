@@ -14,5 +14,6 @@ hello = {
     ["DAN_XDN"] = 218371468, -- 327670978186444800 support
     ["skvulI"] = 2552920865,
     ["15garcon"] = 292578803,
+    ["Elumees2017"] = 3000559599,
 }
 return hello
