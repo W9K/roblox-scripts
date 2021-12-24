@@ -17,5 +17,6 @@ hello = {
     ["Elumees2017"] = 3000559599,
     ["QuincyXiang"] = 444052573, -- 396410605671809039 partner wl
     ["kuzsato"] = 514704577,
+    ["Crostide"] = 79287609, -- Crostide
 }
 return hello
