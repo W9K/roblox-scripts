@@ -30,5 +30,10 @@ hello = {
     ["Masxu_Hot"] = 2847079316,
     ["AllOppsDeadd"] = 715327701,
     ["Thewinnereagle"] = 485607094,
+    ["soolalamp"] = 783561508,
+    ["SadLuc1an"] = 2474232094,
+    ["meister2018"] = 164076031,
+    ["Vaz1xi"] = 2582560623,
+    ["JULIO_OA"] = 1547098029,
 }
 return hello
