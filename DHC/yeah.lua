@@ -27,5 +27,6 @@ hello = {
     ["sonicccccccccc2131"] = 2890378299,
     ["77zeb"] = 1543333411,
     ["ALEX010603"] = 21380886,
+    ["Masxu_Hot"] = 2847079316,
 }
 return hello
