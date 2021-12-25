@@ -23,5 +23,9 @@ hello = {
     ["2Chillie"] = 2333364866,
     ["dsmxnd"] = 120278349,
     ["6ghxstfatty"] = 1896576364, -- 289617448615804928 support
+    ["iii_Joshua"] = 897430852,
+    ["sonicccccccccc2131"] = 2890378299,
+    ["77zeb"] = 1543333411,
+    ["ALEX010603"] = 21380886,
 }
 return hello
