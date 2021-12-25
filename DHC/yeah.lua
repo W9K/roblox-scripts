@@ -36,5 +36,6 @@ hello = {
     ["Vaz1xi"] = 2582560623,
     ["JULIO_OA"] = 1547098029,
     ["Cl8pz"] = 2380319837,
+    ["ItsSarien"] = 2713504974,
 }
 return hello
