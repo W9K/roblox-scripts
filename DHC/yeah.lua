@@ -40,5 +40,7 @@ hello = {
     ["AlexPlayzRoblox28"] = 389006286,
     ["MumifeiedPlays"] = 1685491549,
     ["carvenyiou"] = 36770,
+    ["zensityy"] = 530191889,
+    ["vxKiri"] = 484399595,
 }
 return hello
