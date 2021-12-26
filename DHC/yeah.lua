@@ -44,5 +44,6 @@ hello = {
     ["vxKiri"] = 484399595,
     ["miidwxst"] = 216174989,
     ["YooTfue"] = 1232494512,
+    ["JustJeaan"] = 766552903, -- this nigga got me paypal limited for unusual activity
 }
 return hello
